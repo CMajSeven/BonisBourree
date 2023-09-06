@@ -1,0 +1,59 @@
+General
+-------
+In several instances, the dynamics are only written for one of two of an instrument. These dynamics are assumed to apply to both parts.
+28: "meno p" is written below the system (bass is not playing), presumably for Violin II which has the melody
+33: "doux et grazieuz [sic]" above Violin I presumably also applies to Violin II and Viola
+
+Flutes
+------
+17: The crescendo presumably applies to both parts
+14: Flute 2 is presumably also f
+
+Oboes
+-----
+33: Oboe 2 missing incoming slur
+69.4: Potentially missing accent
+
+Clarinets
+---------
+67: Missing incoming tie on Clarinet 2
+88.1: C in Clarinet 1 should presumably be A
+
+Bassoons
+--------
+5.3: Staccato on Bassoon 1 presumably missing
+40.1: Staccato on Bassoon 2 presumably missing
+79.2: Staccato on Bassoon 1 presumably unintended
+82: Incoming slur missing on Bassoon 1
+
+Horns
+-----
+1: It is unclear whether this is supposed to be a2 or just 1.
+33: Flat on B for Horn 2 presumably missing
+45-46: Incoming tie on Horn 1 missing
+
+Harp
+----
+26.4: Missing # on G#
+50: Change to treble clef missing
+75: Change to treble clef missing
+
+Violin I
+--------
+5-6: Tie missing
+35.1: Staccato presumably missing
+
+Violin II
+---------
+61.2: Staccato presumably unintended
+
+Viola
+-----
+5-6: Outgoing tie missing
+73-74: Outgoing tie missing
+
+Cello
+-----
+5.3: Staccato presumably missing
+5-6: Incoming slur missing
+73-74: Outgoing slur missing
