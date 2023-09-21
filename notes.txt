@@ -8,6 +8,7 @@ Flutes
 ------
 17: The crescendo presumably applies to both parts
 14: Flute 2 is presumably also f
+34: *** Need to add duplicate (p)
 
 Oboes
 -----
@@ -22,6 +23,7 @@ Clarinets
 Bassoons
 --------
 5.3: Staccato on Bassoon 1 presumably missing
+9: Measure has only whole rest, should presumably be same as 1st ending
 40.1: Staccato on Bassoon 2 presumably missing
 79.2: Staccato on Bassoon 1 presumably unintended
 82: Incoming slur missing on Bassoon 1
@@ -31,6 +33,7 @@ Horns
 1: It is unclear whether this is supposed to be a2 or just 1.
 33: Flat on B for Horn 2 presumably missing
 45-46: Incoming tie on Horn 1 missing
+61-62: *** Need to manually adjust condensed rests
 
 Harp
 ----
