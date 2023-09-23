@@ -34,6 +34,10 @@ Horns
 45-46: Incoming tie on Horn 1 missing
 61-62: *** Need to manually adjust condensed rests
 
+Triangle
+--------
+Noted as treble clef only with C5
+
 Harp
 ----
 26.4: Missing # on G#
@@ -64,4 +68,5 @@ Cello
 Contrabass
 ----------
 6: arco presumably missing
+20: arco presumably missing
 75: arco presumably missing
