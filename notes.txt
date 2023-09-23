@@ -31,7 +31,6 @@ Bassoons
 Horns
 -----
 1: It is unclear whether this is supposed to be a2 or just 1.
-33: Flat on B for Horn 2 presumably missing
 45-46: Incoming tie on Horn 1 missing
 61-62: *** Need to manually adjust condensed rests
 
@@ -45,6 +44,7 @@ Violin I
 --------
 5-6: Tie missing
 35.1: Staccato presumably missing
+95: Pizz presumably missing
 
 Violin II
 ---------
@@ -60,3 +60,8 @@ Cello
 5.3: Staccato presumably missing
 5-6: Incoming slur missing
 73-74: Outgoing slur missing
+
+Contrabass
+----------
+6: arco presumably missing
+75: arco presumably missing
