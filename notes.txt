@@ -8,10 +8,12 @@ Flutes
 ------
 17: The crescendo presumably applies to both parts
 14: Flute 2 is presumably also f
-34: *** Need to add duplicate (p)
+34: Removed brackets around p in 1.1
+36: Added p to Flute 1 in 1.1
 
 Oboes
 -----
+8: Missing leading note into repeat as in measure 0s
 33: Oboe 2 missing incoming slur
 69.4: Potentially missing accent
 
@@ -24,6 +26,7 @@ Bassoons
 --------
 5.3: Staccato on Bassoon 1 presumably missing
 9: Measure has only whole rest, should presumably be same as 1st ending
+38.2: D should be C# like in piano version and to follow melodic pattern better, correction in 1.1
 40.1: Staccato on Bassoon 2 presumably missing
 79.2: Staccato on Bassoon 1 presumably unintended
 82: Incoming slur missing on Bassoon 1
